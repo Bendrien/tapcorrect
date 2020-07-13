@@ -9701,6 +9701,12 @@
           "time": 287.142902494
         },
         {
+          "value": 1,
+          "confidence": null,
+          "duration": 0.0,
+          "time": 287.728571429
+        },
+        {
           "value": 2,
           "confidence": null,
           "duration": 0.0,
